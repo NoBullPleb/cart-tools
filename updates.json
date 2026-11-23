@@ -26,6 +26,11 @@
           "version": "1.10.5",
           "update_link": "https://nobullpleb.github.io/cart-tools/instacart-optimizer-1.10.5.xpi",
           "update_hash": "sha256:4ddc7b6026ed14c152ec90613cb9e572bfedac607825ee0f319f3bf8b283eff2"
+        },
+        {
+          "version": "1.10.6",
+          "update_link": "https://nobullpleb.github.io/cart-tools/instacart-optimizer-1.10.6.xpi",
+          "update_hash": "sha256:bafa5f0f0aff8d075a6e59bb04b3b51cd81ef106aedde9ce6f100a14fb234991"
         }
       ]
     }
